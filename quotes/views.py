@@ -67,4 +67,3 @@ def delete_stock(request):
 	return render(request, 'delete_stock.html', {'ticker': ticker})
 
 
-
